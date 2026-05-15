@@ -4,5 +4,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("main line");
         System.out.println("Second Line");
+        System.out.println("Third line");
     }
 }
